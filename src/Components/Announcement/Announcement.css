@@ -1,0 +1,12 @@
+.deal-container {
+  height: 30px;
+  background: -webkit-linear-gradient(to right, #753a88, #0abfbc);
+  background: linear-gradient(to right, #753a88, #0abfbc);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: 500;
+}
+
